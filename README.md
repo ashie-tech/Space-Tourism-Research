@@ -1,4 +1,4 @@
-##Space Tourism with Current Technology – Focusing on ISRO
+Space Tourism with Current Technology – Focusing on ISRO
 
 This project explores the growing potential of space tourism, focusing on how current technologies and ISRO’s advancements can make commercial space travel more accessible, affordable, and safe.
 
